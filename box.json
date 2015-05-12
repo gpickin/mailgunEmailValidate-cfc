@@ -1,0 +1,23 @@
+{
+"name":"mailgunEmailValidate-cfc",
+"version":"0.1.0.0000",
+"author":"Gavin Pickin",
+"homepage":"https://github.com/gpickin/mailgunEmailValidate-cfc",
+"repository":{
+"type":"Git",
+"url":"https://github.com/gpickin/mailgunEmailValidate-cfc"
+},
+"bugs":"https://github.com/gpickin/mailgunEmailValidate-cfc/issues",
+"slug":"mailgunEmailValidate-cfc",
+"shortDescription":"This is a simple Email Validator using the MailGun service. Signup for a free account from mailgun.net to get your own Public API Key",
+"instructions":"Install via CommandBox by typing 'install mailgunEmailValidate-cfc'",
+"type":"module",
+"keywords":[
+"email",
+"validation",
+"mailgun",
+"api",
+"free",
+"service"
+]
+}
